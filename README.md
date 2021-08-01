@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mercon55
 - 👀 I’m interested in Genomic Data Science
 - 🌱 I’m currently learning PostgreSQL and Machine learning Algorithms
-- 💞️ I’m looking to collaborate with researchers, and bioinformaticians, data scientists, data analysts, software engineeers and tech enthusiasts
+- 💞️ I’m looking to collaborate with researchers, bioinformaticians, data scientists, data analysts, software engineeers and tech enthusiasts
 - 📫 How to reach me. You can reach me on linkedin here  http://linkedin.com/in/oluwaranti-mercy-oni
 
 <!---
