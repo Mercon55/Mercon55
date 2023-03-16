@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Mercon55
-- I am a cloud and data engineer
-- 👀 I’m interested in data Science and data engineering
-- 🌱 I’m currently learning SQL, ApacheSpark, Microsoft Azure and Machine learning Algorithms
-- 💞️ I’m looking to collaborate with researchers, bioinformaticians, data scientists, data analysts, data engieners, software engineeers and tech enthusiast.
-- 📫 How to reach me. You can reach me on linkedin here  http://linkedin.com/in/oluwaranti-mercy-oni.
+- Data!!!
 
 <!---
 Mercon55/Mercon55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
